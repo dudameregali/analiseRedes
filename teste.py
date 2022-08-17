@@ -23,11 +23,12 @@ def gerarGrafico(sites, graficos, probes):
                 #inicia as listas que vão ser os pontos de X e Y no grafico
                 axisX = [] 
                 axisY = []
+                horarios = []
                 # inicia as informações de X e Y para facilitar a leitura
                 infoX = grafico[0]
                 infoY = grafico[1]
                 # inicia a figura de um tamanho padrão
-                plt.figure(figsize=(12, 5))
+                plt.figure(figsize=(16, 9))
                 # percorre todas as probes para gerar linha linha para cada probe
                 for probe in probes:
                     # percorre todos os elementos do arquivo json da vez
@@ -37,11 +38,13 @@ def gerarGrafico(sites, graficos, probes):
                             # verifica de o parametro é o timestamp, se for, converte para data e hora.
                             if infoX == 'timestamp':
                                 aux = datetime.fromtimestamp(datas[infoX])
-                                axisX.append(aux)
+                                newAux = aux.strftime('%d/%m-%H')
+                                axisX.append(newAux)
                                 axisY.append(datas[infoY])
                             elif infoX == 'timestamp':
                                 aux = datetime.fromtimestamp(datas[infoY])
-                                axisY.append(aux)
+                                newAux = aux.strftime('%d/%m-%H')
+                                axisY.append(newAux)
                                 axisX.append(datas[infoX])
                             else:
                                 # caso a probe corresponda, adiciona na lista de cada eixo a informação correta
@@ -64,12 +67,14 @@ def gerarGrafico(sites, graficos, probes):
                 plt.xlabel(str(infoX))
                 # nomeia o eixo Y
                 plt.ylabel(str(infoY))
+                # rotaciona a legenda do eixo x
+                plt.xticks(rotation=90)
                 # coloca o título do gráfico
                 plt.title(str(site) + "_" + str(infoX) + " X " + str(infoY))
                 # adiciona a legenta no gráfico
                 plt.legend(bbox_to_anchor = (1, 1))
                 # variavel auxiliar para dar nome ao arquivo png que será gerado
-                nomeArquivo = str(site) + "_" + str(infoX) + "_X_" + str(infoY) + '_' + str(grafico[2] + '.png')
+                nomeArquivo = str(site) + "_" + str(infoX) + "_X_" + str(infoY) + '_probes_' + str(grafico[2] + '.png')
                 # salva o grafico como uma imagem png
                 plt.savefig(str(Path('.\graficos', nomeArquivo)))
                 #plt.show()
@@ -87,8 +92,8 @@ def ordenaListas(axisX, axisY):
 
 
 # Para chamar a função gerarGrafico usar como parametros.
-# Parametro 1 - Lista dos momes dos sites que gerão gerados os graficos. Ex: ['google', 'mamazon']
+# Parametro 1 - Lista dos momes dos sites que gerão gerados os graficos. Ex: ['google.json', 'mamazon.json']
 # Parametro 2 - Lista com uma lista dos X,y e probes que devem ser geradas. Ex: [['rtt' , 'hops', linha],['rtt' , 'hops', dispercao]] 
 # parametro 3 - Lista com as probes que vão ser geradas os gráficos Ex: probesIds ou [19592, 32670]
 
-gerarGrafico(nomesSites, [['timestamp', 'rtt', 'linha'], ['timestamp','hops','linha'],['rtt', 'hops', 'dispercao']], probesIds)
+gerarGrafico(nomesSites, [['timestamp', 'rtt', 'linha'], ['timestamp','hops','linha'],['hops', 'rtt', 'dispercao']], [6931,32670,1000327])

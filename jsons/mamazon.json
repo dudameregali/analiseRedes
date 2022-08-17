@@ -2,1765 +2,1765 @@
     {
         "probe": 1000819,
         "timestamp": 1660039259,
-        "rtt": 0,
+        "rtt": 77.811,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660039248,
-        "rtt": 0,
+        "rtt": 132.605,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660039241,
-        "rtt": 0,
+        "rtt": 274.712,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660039289,
-        "rtt": 0,
+        "rtt": 309.748,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660039284,
-        "rtt": 0,
+        "rtt": 51.364,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660039285,
-        "rtt": 0,
+        "rtt": 166.303,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660039302,
-        "rtt": 0,
+        "rtt": 111.442,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660039313,
-        "rtt": 0,
+        "rtt": 174.533,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660039326,
-        "rtt": 0,
+        "rtt": 107.05,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660039345,
-        "rtt": 0,
+        "rtt": 222.857,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660039434,
-        "rtt": 0,
+        "rtt": 217.944,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660039446,
-        "rtt": 0,
+        "rtt": 77.054,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660039550,
-        "rtt": 0,
+        "rtt": 160.089,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660039544,
-        "rtt": 0,
+        "rtt": 14.913,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660039547,
-        "rtt": 0,
+        "rtt": 89.281,
         "hops": 14
     },
     {
         "probe": 55856,
         "timestamp": 1660039544,
-        "rtt": 0,
+        "rtt": 22.865,
         "hops": 16
     },
     {
         "probe": 6931,
         "timestamp": 1660039553,
-        "rtt": 0,
+        "rtt": 134.109,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660039564,
-        "rtt": 0,
+        "rtt": 162.99,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660039596,
-        "rtt": 0,
+        "rtt": 102.981,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660039577,
-        "rtt": 0,
+        "rtt": 192.55,
         "hops": 6
     },
     {
         "probe": 1000819,
         "timestamp": 1660046446,
-        "rtt": 0,
+        "rtt": 77.382,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660046442,
-        "rtt": 0,
+        "rtt": 140.72,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660046446,
-        "rtt": 0,
+        "rtt": 289.35,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660046487,
-        "rtt": 0,
+        "rtt": 290.827,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660046486,
-        "rtt": 0,
+        "rtt": 51.317,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660046489,
-        "rtt": 0,
+        "rtt": 166.297,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660046499,
-        "rtt": 0,
+        "rtt": 111.388,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660046499,
-        "rtt": 0,
+        "rtt": 170.61,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660046522,
-        "rtt": 0,
+        "rtt": 106.539,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660046542,
-        "rtt": 0,
+        "rtt": 222.911,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660046632,
-        "rtt": 0,
+        "rtt": 213.468,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660046654,
-        "rtt": 0,
+        "rtt": 77.109,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660046747,
-        "rtt": 0,
+        "rtt": 160.028,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660046738,
-        "rtt": 0,
+        "rtt": 14.904,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660046744,
-        "rtt": 0,
+        "rtt": 112.385,
         "hops": 14
     },
     {
         "probe": 55856,
         "timestamp": 1660046745,
-        "rtt": 0,
+        "rtt": 22.974,
         "hops": 16
     },
     {
         "probe": 6931,
         "timestamp": 1660046742,
-        "rtt": 0,
+        "rtt": 138.849,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660046766,
-        "rtt": 0,
+        "rtt": 164.882,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660046793,
-        "rtt": 0,
+        "rtt": 102.8,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660046778,
-        "rtt": 0,
+        "rtt": 200.875,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660053646,
-        "rtt": 0,
+        "rtt": 77.405,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660053644,
-        "rtt": 0,
+        "rtt": 140.523,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660053636,
-        "rtt": 0,
+        "rtt": 279.205,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660053690,
-        "rtt": 0,
+        "rtt": 294.878,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660053682,
-        "rtt": 0,
+        "rtt": 51.17,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660053692,
-        "rtt": 0,
+        "rtt": 166.37,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660053695,
-        "rtt": 0,
+        "rtt": 111.567,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660053702,
-        "rtt": 0,
+        "rtt": 177.555,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660053732,
-        "rtt": 0,
+        "rtt": 106.278,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660053739,
-        "rtt": 0,
+        "rtt": 222.916,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660053823,
-        "rtt": 0,
+        "rtt": 214.413,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660053846,
-        "rtt": 0,
+        "rtt": 77.045,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660053939,
-        "rtt": 0,
+        "rtt": 159.894,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660053942,
-        "rtt": 0,
+        "rtt": 15.006,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660053959,
-        "rtt": 0,
+        "rtt": 163.95,
         "hops": 14
     },
     {
         "probe": 33661,
         "timestamp": 1660053944,
-        "rtt": 0,
+        "rtt": 89.626,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660053952,
-        "rtt": 0,
+        "rtt": 139.385,
         "hops": 16
     },
     {
         "probe": 52770,
         "timestamp": 1660053987,
-        "rtt": 0,
+        "rtt": 102.881,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660053973,
-        "rtt": 0,
+        "rtt": 207.885,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660060846,
-        "rtt": 0,
+        "rtt": 77.661,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660060849,
-        "rtt": 0,
+        "rtt": 140.739,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660060838,
-        "rtt": 0,
+        "rtt": 285.859,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660060880,
-        "rtt": 0,
+        "rtt": 286.757,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660060887,
-        "rtt": 0,
+        "rtt": 51.278,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660060892,
-        "rtt": 0,
+        "rtt": 166.151,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660060898,
-        "rtt": 0,
+        "rtt": 111.435,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660060906,
-        "rtt": 0,
+        "rtt": 173.499,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660060923,
-        "rtt": 0,
+        "rtt": 106.911,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660060944,
-        "rtt": 0,
+        "rtt": 222.887,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660061030,
-        "rtt": 0,
+        "rtt": 217.624,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660061048,
-        "rtt": 0,
+        "rtt": 76.978,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660061146,
-        "rtt": 0,
+        "rtt": 160.035,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660061140,
-        "rtt": 0,
+        "rtt": 14.961,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660061147,
-        "rtt": 0,
+        "rtt": 89.543,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660061147,
-        "rtt": 0,
+        "rtt": 138.076,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660061165,
-        "rtt": 0,
+        "rtt": 163.096,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660061186,
-        "rtt": 0,
+        "rtt": 102.333,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660061178,
-        "rtt": 0,
+        "rtt": 200.785,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660068052,
-        "rtt": 0,
+        "rtt": 76.994,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660068044,
-        "rtt": 0,
+        "rtt": 138.503,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660068038,
-        "rtt": 0,
+        "rtt": 274.582,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660068086,
-        "rtt": 0,
+        "rtt": 292.009,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660068088,
-        "rtt": 0,
+        "rtt": 51.487,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660068086,
-        "rtt": 0,
+        "rtt": 166.011,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660068097,
-        "rtt": 0,
+        "rtt": 111.356,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660068104,
-        "rtt": 0,
+        "rtt": 173.122,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660068120,
-        "rtt": 0,
+        "rtt": 105.762,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660068148,
-        "rtt": 0,
+        "rtt": 222.867,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660068221,
-        "rtt": 0,
+        "rtt": 217.637,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660068256,
-        "rtt": 0,
+        "rtt": 77.004,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660068347,
-        "rtt": 0,
+        "rtt": 160.682,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660068345,
-        "rtt": 0,
+        "rtt": 14.919,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660068357,
-        "rtt": 0,
+        "rtt": 89.186,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660068352,
-        "rtt": 0,
+        "rtt": 138.32,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660068370,
-        "rtt": 0,
+        "rtt": 163.037,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660068398,
-        "rtt": 0,
+        "rtt": 102.541,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660068369,
-        "rtt": 0,
+        "rtt": 200.746,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660075250,
-        "rtt": 0,
+        "rtt": 78.426,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660075237,
-        "rtt": 0,
+        "rtt": 137.732,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660075248,
-        "rtt": 0,
+        "rtt": 274.759,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660075291,
-        "rtt": 0,
+        "rtt": 307.833,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660075292,
-        "rtt": 0,
+        "rtt": 51.214,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660075285,
-        "rtt": 0,
+        "rtt": 166.09,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660075302,
-        "rtt": 0,
+        "rtt": 111.399,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660075310,
-        "rtt": 0,
+        "rtt": 171.938,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660075333,
-        "rtt": 0,
+        "rtt": 105.634,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660075345,
-        "rtt": 0,
+        "rtt": 235.838,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660075421,
-        "rtt": 0,
+        "rtt": 218.55,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660075457,
-        "rtt": 0,
+        "rtt": 76.986,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660075538,
-        "rtt": 0,
+        "rtt": 160.088,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660075542,
-        "rtt": 0,
+        "rtt": 15.193,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660075555,
-        "rtt": 0,
+        "rtt": 89.119,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660075555,
-        "rtt": 0,
+        "rtt": 137.997,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660075561,
-        "rtt": 0,
+        "rtt": 163.204,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660075598,
-        "rtt": 0,
+        "rtt": 102.47,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660075576,
-        "rtt": 0,
+        "rtt": 200.329,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660082457,
-        "rtt": 0,
+        "rtt": 77.224,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660082440,
-        "rtt": 0,
+        "rtt": 138.254,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660082447,
-        "rtt": 0,
+        "rtt": 284.535,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660082478,
-        "rtt": 0,
+        "rtt": 269.529,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660082487,
-        "rtt": 0,
+        "rtt": 51.188,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660082491,
-        "rtt": 0,
+        "rtt": 166.271,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660082495,
-        "rtt": 0,
+        "rtt": 111.535,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660082512,
-        "rtt": 0,
+        "rtt": 173.544,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660082522,
-        "rtt": 0,
+        "rtt": 105.922,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660082539,
-        "rtt": 0,
+        "rtt": 222.582,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660082630,
-        "rtt": 0,
+        "rtt": 217.89,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660082657,
-        "rtt": 0,
+        "rtt": 76.952,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660082741,
-        "rtt": 0,
+        "rtt": 159.963,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660082743,
-        "rtt": 0,
+        "rtt": 14.912,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660082758,
-        "rtt": 0,
+        "rtt": 112.661,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660082743,
-        "rtt": 0,
+        "rtt": 138.169,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660082772,
-        "rtt": 0,
+        "rtt": 163.23,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660082797,
-        "rtt": 0,
+        "rtt": 103.105,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660082777,
-        "rtt": 0,
+        "rtt": 206.027,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660089654,
-        "rtt": 0,
+        "rtt": 77.568,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660089638,
-        "rtt": 0,
+        "rtt": 137.402,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660089639,
-        "rtt": 0,
+        "rtt": 287.865,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660089684,
-        "rtt": 0,
+        "rtt": 275.698,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660089691,
-        "rtt": 0,
+        "rtt": 51.282,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660089680,
-        "rtt": 0,
+        "rtt": 172.392,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660089698,
-        "rtt": 0,
+        "rtt": 111.539,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660089703,
-        "rtt": 0,
+        "rtt": 176.407,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660089725,
-        "rtt": 0,
+        "rtt": 106.765,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660089741,
-        "rtt": 0,
+        "rtt": 222.893,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660089820,
-        "rtt": 0,
+        "rtt": 213.561,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660089850,
-        "rtt": 0,
+        "rtt": 76.995,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660089948,
-        "rtt": 0,
+        "rtt": 160.132,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660089946,
-        "rtt": 0,
+        "rtt": 15.036,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660089952,
-        "rtt": 0,
+        "rtt": 89.98,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660089947,
-        "rtt": 0,
+        "rtt": 143.019,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660089970,
-        "rtt": 0,
+        "rtt": 162.989,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660089989,
-        "rtt": 0,
+        "rtt": 103.618,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660089982,
-        "rtt": 0,
+        "rtt": 206.213,
         "hops": 20
     },
     {
         "probe": 13378,
         "timestamp": 1660096837,
-        "rtt": 0,
+        "rtt": 138.73,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660096848,
-        "rtt": 0,
+        "rtt": 284.695,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660096879,
-        "rtt": 0,
+        "rtt": 268.882,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660096879,
-        "rtt": 0,
+        "rtt": 51.308,
         "hops": 19
     },
     {
         "probe": 1000819,
         "timestamp": 1660096860,
-        "rtt": 0,
+        "rtt": 77.716,
         "hops": 25
     },
     {
         "probe": 1002177,
         "timestamp": 1660096886,
-        "rtt": 0,
+        "rtt": 172.346,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660096903,
-        "rtt": 0,
+        "rtt": 111.627,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660096909,
-        "rtt": 0,
+        "rtt": 182.402,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660096920,
-        "rtt": 0,
+        "rtt": 106.893,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660096939,
-        "rtt": 0,
+        "rtt": 222.836,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660097030,
-        "rtt": 0,
+        "rtt": 217.695,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660097049,
-        "rtt": 0,
+        "rtt": 77.01,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660097147,
-        "rtt": 0,
+        "rtt": 160.059,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660097152,
-        "rtt": 0,
+        "rtt": 15.106,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660097156,
-        "rtt": 0,
+        "rtt": 89.236,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660097146,
-        "rtt": 0,
+        "rtt": 136.729,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660097165,
-        "rtt": 0,
+        "rtt": 163.073,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660097185,
-        "rtt": 0,
+        "rtt": 102.323,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660097168,
-        "rtt": 0,
+        "rtt": 198.093,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660104053,
-        "rtt": 0,
+        "rtt": 77.668,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660104043,
-        "rtt": 0,
+        "rtt": 138.139,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660104048,
-        "rtt": 0,
+        "rtt": 284.755,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660104089,
-        "rtt": 0,
+        "rtt": 277.96,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660104089,
-        "rtt": 0,
+        "rtt": 51.333,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660104082,
-        "rtt": 0,
+        "rtt": 172.162,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660104098,
-        "rtt": 0,
+        "rtt": 111.438,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660104099,
-        "rtt": 0,
+        "rtt": 171.997,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660104124,
-        "rtt": 0,
+        "rtt": 106.411,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660104152,
-        "rtt": 0,
+        "rtt": 222.749,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660104230,
-        "rtt": 0,
+        "rtt": 213.237,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660104249,
-        "rtt": 0,
+        "rtt": 77.017,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660104350,
-        "rtt": 0,
+        "rtt": 159.474,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660104343,
-        "rtt": 0,
+        "rtt": 15.026,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660104359,
-        "rtt": 0,
+        "rtt": 163.21,
         "hops": 14
     },
     {
         "probe": 33661,
         "timestamp": 1660104347,
-        "rtt": 0,
+        "rtt": 89.712,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660104347,
-        "rtt": 0,
+        "rtt": 131.694,
         "hops": 16
     },
     {
         "probe": 52770,
         "timestamp": 1660104398,
-        "rtt": 0,
+        "rtt": 102.694,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660104373,
-        "rtt": 0,
+        "rtt": 198.048,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660111247,
-        "rtt": 0,
+        "rtt": 77.537,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660111242,
-        "rtt": 0,
+        "rtt": 138.041,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660111250,
-        "rtt": 0,
+        "rtt": 284.7,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660111280,
-        "rtt": 0,
+        "rtt": 311.79,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660111279,
-        "rtt": 0,
+        "rtt": 51.281,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660111287,
-        "rtt": 0,
+        "rtt": 165.951,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660111304,
-        "rtt": 0,
+        "rtt": 111.549,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660111305,
-        "rtt": 0,
+        "rtt": 171.589,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660111332,
-        "rtt": 0,
+        "rtt": 106.439,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660111343,
-        "rtt": 0,
+        "rtt": 222.769,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660111421,
-        "rtt": 0,
+        "rtt": 219.058,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660111458,
-        "rtt": 0,
+        "rtt": 77.0,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660111540,
-        "rtt": 0,
+        "rtt": 159.464,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660111552,
-        "rtt": 0,
+        "rtt": 14.963,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660111552,
-        "rtt": 0,
+        "rtt": 89.341,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660111556,
-        "rtt": 0,
+        "rtt": 131.611,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660111566,
-        "rtt": 0,
+        "rtt": 163.222,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660111595,
-        "rtt": 0,
+        "rtt": 102.195,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660111575,
-        "rtt": 0,
+        "rtt": 198.052,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660118447,
-        "rtt": 0,
+        "rtt": 77.084,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660118437,
-        "rtt": 0,
+        "rtt": 137.681,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660118448,
-        "rtt": 0,
+        "rtt": 286.563,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660118479,
-        "rtt": 0,
+        "rtt": 278.816,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660118487,
-        "rtt": 0,
+        "rtt": 51.265,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660118491,
-        "rtt": 0,
+        "rtt": 165.881,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660118502,
-        "rtt": 0,
+        "rtt": 111.53,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660118512,
-        "rtt": 0,
+        "rtt": 175.604,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660118526,
-        "rtt": 0,
+        "rtt": 105.724,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660118549,
-        "rtt": 0,
+        "rtt": 223.184,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660118621,
-        "rtt": 0,
+        "rtt": 217.835,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660118649,
-        "rtt": 0,
+        "rtt": 77.274,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660118752,
-        "rtt": 0,
+        "rtt": 159.449,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660118752,
-        "rtt": 0,
+        "rtt": 15.034,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660118757,
-        "rtt": 0,
+        "rtt": 163.023,
         "hops": 14
     },
     {
         "probe": 33661,
         "timestamp": 1660118756,
-        "rtt": 0,
+        "rtt": 89.291,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660118743,
-        "rtt": 0,
+        "rtt": 111.564,
         "hops": 16
     },
     {
         "probe": 52770,
         "timestamp": 1660118789,
-        "rtt": 0,
+        "rtt": 102.937,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660118782,
-        "rtt": 0,
+        "rtt": 197.998,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660125647,
-        "rtt": 0,
+        "rtt": 77.58,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660125638,
-        "rtt": 0,
+        "rtt": 137.782,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660125639,
-        "rtt": 0,
+        "rtt": 282.264,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660125689,
-        "rtt": 0,
+        "rtt": 269.781,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660125679,
-        "rtt": 0,
+        "rtt": 51.276,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660125686,
-        "rtt": 0,
+        "rtt": 166.048,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660125706,
-        "rtt": 0,
+        "rtt": 111.425,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660125699,
-        "rtt": 0,
+        "rtt": 173.508,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660125726,
-        "rtt": 0,
+        "rtt": 105.755,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660125739,
-        "rtt": 0,
+        "rtt": 222.824,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660125832,
-        "rtt": 0,
+        "rtt": 217.907,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660125860,
-        "rtt": 0,
+        "rtt": 77.054,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660125941,
-        "rtt": 0,
+        "rtt": 159.376,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660125943,
-        "rtt": 0,
+        "rtt": 14.93,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660125950,
-        "rtt": 0,
+        "rtt": 97.698,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660125946,
-        "rtt": 0,
+        "rtt": 111.234,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660125964,
-        "rtt": 0,
+        "rtt": 163.234,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660125986,
-        "rtt": 0,
+        "rtt": 103.716,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660125978,
-        "rtt": 0,
+        "rtt": 198.164,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660132849,
-        "rtt": 0,
+        "rtt": 77.28,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660132849,
-        "rtt": 0,
+        "rtt": 137.711,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660132845,
-        "rtt": 0,
+        "rtt": 281.861,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660132885,
-        "rtt": 0,
+        "rtt": 294.901,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660132889,
-        "rtt": 0,
+        "rtt": 51.228,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660132882,
-        "rtt": 0,
+        "rtt": 165.905,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660132897,
-        "rtt": 0,
+        "rtt": 111.493,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660132902,
-        "rtt": 0,
+        "rtt": 172.382,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660132931,
-        "rtt": 0,
+        "rtt": 106.806,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660132947,
-        "rtt": 0,
+        "rtt": 222.881,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660133029,
-        "rtt": 0,
+        "rtt": 213.782,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660133045,
-        "rtt": 0,
+        "rtt": 77.016,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660133148,
-        "rtt": 0,
+        "rtt": 159.407,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660133146,
-        "rtt": 0,
+        "rtt": 14.869,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660133158,
-        "rtt": 0,
+        "rtt": 179.951,
         "hops": 14
     },
     {
         "probe": 33661,
         "timestamp": 1660133146,
-        "rtt": 0,
+        "rtt": 92.693,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660133143,
-        "rtt": 0,
+        "rtt": 111.046,
         "hops": 16
     },
     {
         "probe": 52770,
         "timestamp": 1660133186,
-        "rtt": 0,
+        "rtt": 103.059,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660133176,
-        "rtt": 0,
+        "rtt": 198.304,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660140053,
-        "rtt": 0,
+        "rtt": 77.801,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660140049,
-        "rtt": 0,
+        "rtt": 137.743,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660140037,
-        "rtt": 0,
+        "rtt": 281.097,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660140078,
-        "rtt": 0,
+        "rtt": 287.984,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660140078,
-        "rtt": 0,
+        "rtt": 51.349,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660140089,
-        "rtt": 0,
+        "rtt": 166.017,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660140100,
-        "rtt": 0,
+        "rtt": 111.541,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660140103,
-        "rtt": 0,
+        "rtt": 173.549,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660140120,
-        "rtt": 0,
+        "rtt": 105.827,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660140150,
-        "rtt": 0,
+        "rtt": 222.996,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660140229,
-        "rtt": 0,
+        "rtt": 213.236,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660140256,
-        "rtt": 0,
+        "rtt": 77.063,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660140338,
-        "rtt": 0,
+        "rtt": 159.441,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660140344,
-        "rtt": 0,
+        "rtt": 15.082,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660140357,
-        "rtt": 0,
+        "rtt": 92.653,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660140353,
-        "rtt": 0,
+        "rtt": 125.494,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660140369,
-        "rtt": 0,
+        "rtt": 171.688,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660140386,
-        "rtt": 0,
+        "rtt": 102.129,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660140377,
-        "rtt": 0,
+        "rtt": 207.705,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660147251,
-        "rtt": 0,
+        "rtt": 77.265,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660147239,
-        "rtt": 0,
+        "rtt": 137.966,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660147238,
-        "rtt": 0,
+        "rtt": 281.165,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660147279,
-        "rtt": 0,
+        "rtt": 269.92,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660147284,
-        "rtt": 0,
+        "rtt": 51.208,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660147291,
-        "rtt": 0,
+        "rtt": 166.042,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660147306,
-        "rtt": 0,
+        "rtt": 111.801,
         "hops": 23
     },
     {
@@ -1772,3457 +1772,3451 @@
     {
         "probe": 1002506,
         "timestamp": 1660147320,
-        "rtt": 0,
+        "rtt": 110.228,
         "hops": 19
     },
     {
         "probe": 1002772,
         "timestamp": 1660147344,
-        "rtt": 0,
+        "rtt": 222.871,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660147422,
-        "rtt": 0,
+        "rtt": 210.097,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660147447,
-        "rtt": 0,
+        "rtt": 77.104,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660147550,
-        "rtt": 0,
+        "rtt": 159.466,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660147542,
-        "rtt": 0,
+        "rtt": 14.983,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660147559,
-        "rtt": 0,
+        "rtt": 89.234,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660147547,
-        "rtt": 0,
+        "rtt": 125.498,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660147565,
-        "rtt": 0,
+        "rtt": 163.215,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660147597,
-        "rtt": 0,
+        "rtt": 101.865,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660147574,
-        "rtt": 0,
+        "rtt": 198.112,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660154450,
-        "rtt": 0,
+        "rtt": 76.896,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660154438,
-        "rtt": 0,
+        "rtt": 138.195,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660154444,
-        "rtt": 0,
+        "rtt": 281.18,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660154491,
-        "rtt": 0,
+        "rtt": 278.746,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660154485,
-        "rtt": 0,
+        "rtt": 51.288,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660154489,
-        "rtt": 0,
+        "rtt": 166.099,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660154506,
-        "rtt": 0,
+        "rtt": 111.456,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660154501,
-        "rtt": 0,
+        "rtt": 176.724,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660154523,
-        "rtt": 0,
+        "rtt": 114.63,
         "hops": 19
     },
     {
         "probe": 1002772,
         "timestamp": 1660154538,
-        "rtt": 0,
+        "rtt": 222.874,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660154629,
-        "rtt": 0,
+        "rtt": 217.577,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660154648,
-        "rtt": 0,
+        "rtt": 77.014,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660154750,
-        "rtt": 0,
+        "rtt": 161.073,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660154744,
-        "rtt": 0,
+        "rtt": 15.258,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660154748,
-        "rtt": 0,
+        "rtt": 89.356,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660154755,
-        "rtt": 0,
+        "rtt": 127.147,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660154761,
-        "rtt": 0,
+        "rtt": 163.11,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660154789,
-        "rtt": 0,
+        "rtt": 102.47,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660154772,
-        "rtt": 0,
+        "rtt": 198.036,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660161646,
-        "rtt": 0,
+        "rtt": 77.419,
         "hops": 24
     },
     {
         "probe": 13378,
         "timestamp": 1660161648,
-        "rtt": 0,
+        "rtt": 140.924,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660161646,
-        "rtt": 0,
+        "rtt": 281.165,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660161681,
-        "rtt": 0,
+        "rtt": 277.458,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660161685,
-        "rtt": 0,
+        "rtt": 51.335,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660161683,
-        "rtt": 0,
+        "rtt": 166.073,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660161697,
-        "rtt": 0,
+        "rtt": 111.331,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660161706,
-        "rtt": 0,
+        "rtt": 178.966,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660161732,
-        "rtt": 0,
+        "rtt": 114.643,
         "hops": 19
     },
     {
         "probe": 1002772,
         "timestamp": 1660161750,
-        "rtt": 0,
+        "rtt": 222.881,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660161822,
-        "rtt": 0,
+        "rtt": 213.387,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660161854,
-        "rtt": 0,
+        "rtt": 77.055,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660161947,
-        "rtt": 0,
+        "rtt": 162.348,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660161945,
-        "rtt": 0,
+        "rtt": 14.918,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660161958,
-        "rtt": 0,
+        "rtt": 162.892,
         "hops": 14
     },
     {
         "probe": 33661,
         "timestamp": 1660161952,
-        "rtt": 0,
+        "rtt": 89.705,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660161950,
-        "rtt": 0,
+        "rtt": 129.012,
         "hops": 16
     },
     {
         "probe": 52770,
         "timestamp": 1660161995,
-        "rtt": 0,
+        "rtt": 102.326,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660161968,
-        "rtt": 0,
+        "rtt": 198.002,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660168848,
-        "rtt": 0,
+        "rtt": 78.325,
         "hops": 29
     },
     {
         "probe": 13378,
         "timestamp": 1660168844,
-        "rtt": 0,
+        "rtt": 140.941,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660168841,
-        "rtt": 0,
+        "rtt": 281.484,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660168890,
-        "rtt": 0,
+        "rtt": 287.854,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660168891,
-        "rtt": 0,
+        "rtt": 51.252,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660168885,
-        "rtt": 0,
+        "rtt": 165.934,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660168907,
-        "rtt": 0,
+        "rtt": 111.365,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660168903,
-        "rtt": 0,
+        "rtt": 175.554,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660168930,
-        "rtt": 0,
+        "rtt": 113.816,
         "hops": 19
     },
     {
         "probe": 1002772,
         "timestamp": 1660168948,
-        "rtt": 0,
+        "rtt": 222.909,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660169029,
-        "rtt": 0,
+        "rtt": 217.382,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660169058,
-        "rtt": 0,
+        "rtt": 77.02,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660169138,
-        "rtt": 0,
+        "rtt": 162.284,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660169138,
-        "rtt": 0,
+        "rtt": 15.074,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660169156,
-        "rtt": 0,
+        "rtt": 90.06,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660169156,
-        "rtt": 0,
+        "rtt": 133.364,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660169165,
-        "rtt": 0,
+        "rtt": 163.313,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660169194,
-        "rtt": 0,
+        "rtt": 102.182,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660169168,
-        "rtt": 0,
+        "rtt": 198.01,
         "hops": 20
     },
     {
         "probe": 13378,
         "timestamp": 1660176037,
-        "rtt": 0,
+        "rtt": 138.502,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660176045,
-        "rtt": 0,
+        "rtt": 281.16,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660176080,
-        "rtt": 0,
+        "rtt": 272.012,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660176088,
-        "rtt": 0,
+        "rtt": 51.312,
         "hops": 19
     },
     {
         "probe": 1000819,
         "timestamp": 1660176060,
-        "rtt": 0,
+        "rtt": 76.539,
         "hops": 28
     },
     {
         "probe": 1002177,
         "timestamp": 1660176092,
-        "rtt": 0,
+        "rtt": 165.973,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660176095,
-        "rtt": 0,
+        "rtt": 111.466,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660176110,
-        "rtt": 0,
+        "rtt": 180.022,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660176132,
-        "rtt": 0,
+        "rtt": 112.506,
         "hops": 19
     },
     {
         "probe": 1002772,
         "timestamp": 1660176139,
-        "rtt": 0,
+        "rtt": 222.905,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660176221,
-        "rtt": 0,
+        "rtt": 217.704,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660176246,
-        "rtt": 0,
+        "rtt": 77.031,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660176342,
-        "rtt": 0,
+        "rtt": 162.395,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660176351,
-        "rtt": 0,
+        "rtt": 14.935,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660176354,
-        "rtt": 0,
+        "rtt": 89.258,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660176343,
-        "rtt": 0,
+        "rtt": 133.356,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660176369,
-        "rtt": 0,
+        "rtt": 163.234,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660176390,
-        "rtt": 0,
+        "rtt": 103.219,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660176374,
-        "rtt": 0,
+        "rtt": 198.014,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660183250,
-        "rtt": 0,
+        "rtt": 76.772,
         "hops": 29
     },
     {
         "probe": 13378,
         "timestamp": 1660183247,
-        "rtt": 0,
+        "rtt": 138.053,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660183244,
-        "rtt": 0,
+        "rtt": 281.257,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660183292,
-        "rtt": 0,
+        "rtt": 279.737,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660183279,
-        "rtt": 0,
+        "rtt": 51.319,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660183292,
-        "rtt": 0,
+        "rtt": 165.787,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660183299,
-        "rtt": 0,
+        "rtt": 111.481,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660183299,
-        "rtt": 0,
+        "rtt": 179.256,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660183333,
-        "rtt": 0,
+        "rtt": 109.619,
         "hops": 20
     },
     {
         "probe": 22671,
         "timestamp": 1660183422,
-        "rtt": 0,
+        "rtt": 217.541,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660183455,
-        "rtt": 0,
+        "rtt": 76.992,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660183546,
-        "rtt": 0,
+        "rtt": 160.953,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660183538,
-        "rtt": 0,
+        "rtt": 15.402,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660183553,
-        "rtt": 0,
+        "rtt": 89.265,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660183543,
-        "rtt": 0,
+        "rtt": 133.512,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660183572,
-        "rtt": 0,
+        "rtt": 166.014,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660183588,
-        "rtt": 0,
+        "rtt": 102.866,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660183570,
-        "rtt": 0,
+        "rtt": 197.99,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660190453,
-        "rtt": 0,
+        "rtt": 77.514,
         "hops": 26
     },
     {
         "probe": 13378,
         "timestamp": 1660190449,
-        "rtt": 0,
+        "rtt": 138.038,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660190447,
-        "rtt": 0,
+        "rtt": 280.961,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660190478,
-        "rtt": 0,
+        "rtt": 270.882,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660190485,
-        "rtt": 0,
+        "rtt": 51.319,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660190482,
-        "rtt": 0,
+        "rtt": 165.827,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660190497,
-        "rtt": 0,
+        "rtt": 111.536,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660190508,
-        "rtt": 0,
+        "rtt": 173.736,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660190521,
-        "rtt": 0,
+        "rtt": 108.345,
         "hops": 20
     },
     {
         "probe": 22671,
         "timestamp": 1660190621,
-        "rtt": 0,
+        "rtt": 213.827,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660190647,
-        "rtt": 0,
+        "rtt": 77.038,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660190746,
-        "rtt": 0,
+        "rtt": 160.98,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660190752,
-        "rtt": 0,
+        "rtt": 14.993,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660190757,
-        "rtt": 0,
+        "rtt": 89.467,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660190743,
-        "rtt": 0,
+        "rtt": 133.268,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660190763,
-        "rtt": 0,
+        "rtt": 163.081,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660190791,
-        "rtt": 0,
+        "rtt": 102.204,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660190782,
-        "rtt": 0,
+        "rtt": 197.979,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660197653,
-        "rtt": 0,
+        "rtt": 76.985,
         "hops": 22
     },
     {
         "probe": 13378,
         "timestamp": 1660197636,
-        "rtt": 0,
+        "rtt": 138.482,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660197647,
-        "rtt": 0,
+        "rtt": 281.411,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660197683,
-        "rtt": 0,
+        "rtt": 266.684,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660197682,
-        "rtt": 0,
+        "rtt": 51.306,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660197689,
-        "rtt": 0,
+        "rtt": 166.296,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660197707,
-        "rtt": 0,
+        "rtt": 111.481,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660197709,
-        "rtt": 0,
+        "rtt": 174.769,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660197725,
-        "rtt": 0,
+        "rtt": 110.137,
         "hops": 20
     },
     {
         "probe": 22671,
         "timestamp": 1660197822,
-        "rtt": 0,
+        "rtt": 217.882,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660197852,
-        "rtt": 0,
+        "rtt": 76.951,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660197940,
-        "rtt": 0,
+        "rtt": 162.513,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660197946,
-        "rtt": 0,
+        "rtt": 15.055,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660197950,
-        "rtt": 0,
+        "rtt": 89.253,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660197949,
-        "rtt": 0,
+        "rtt": 133.286,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660197967,
-        "rtt": 0,
+        "rtt": 163.096,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660197994,
-        "rtt": 0,
+        "rtt": 102.237,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660197976,
-        "rtt": 0,
+        "rtt": 198.079,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660204849,
-        "rtt": 0,
+        "rtt": 77.084,
         "hops": 22
     },
     {
         "probe": 13378,
         "timestamp": 1660204844,
-        "rtt": 0,
+        "rtt": 134.642,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660204843,
-        "rtt": 0,
+        "rtt": 283.374,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660204882,
-        "rtt": 0,
+        "rtt": 269.089,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660204882,
-        "rtt": 0,
+        "rtt": 51.336,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660204884,
-        "rtt": 0,
+        "rtt": 166.212,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660204894,
-        "rtt": 0,
+        "rtt": 111.496,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660204903,
-        "rtt": 0,
+        "rtt": 175.525,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660204927,
-        "rtt": 0,
+        "rtt": 112.176,
         "hops": 20
     },
     {
         "probe": 22671,
         "timestamp": 1660205033,
-        "rtt": 0,
+        "rtt": 221.144,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660205049,
-        "rtt": 0,
+        "rtt": 77.077,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660205148,
-        "rtt": 0,
+        "rtt": 160.868,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660205142,
-        "rtt": 0,
+        "rtt": 14.903,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660205151,
-        "rtt": 0,
+        "rtt": 89.26,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660205147,
-        "rtt": 0,
+        "rtt": 134.703,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660205162,
-        "rtt": 0,
+        "rtt": 163.12,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660205189,
-        "rtt": 0,
+        "rtt": 102.964,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660205175,
-        "rtt": 0,
+        "rtt": 197.971,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660212048,
-        "rtt": 0,
+        "rtt": 77.36,
         "hops": 22
     },
     {
         "probe": 13378,
         "timestamp": 1660212040,
-        "rtt": 0,
+        "rtt": 132.617,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660212038,
-        "rtt": 0,
+        "rtt": 281.456,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660212079,
-        "rtt": 0,
+        "rtt": 266.764,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660212090,
-        "rtt": 0,
+        "rtt": 51.386,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660212091,
-        "rtt": 0,
+        "rtt": 166.084,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660212095,
-        "rtt": 0,
+        "rtt": 111.488,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660212113,
-        "rtt": 0,
+        "rtt": 185.028,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660212123,
-        "rtt": 0,
+        "rtt": 112.943,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660212148,
-        "rtt": 0,
+        "rtt": 217.857,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660212232,
-        "rtt": 0,
+        "rtt": 211.189,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660212250,
-        "rtt": 0,
+        "rtt": 77.094,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660212337,
-        "rtt": 0,
+        "rtt": 162.166,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660212344,
-        "rtt": 0,
+        "rtt": 14.961,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660212350,
-        "rtt": 0,
+        "rtt": 89.345,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660212354,
-        "rtt": 0,
+        "rtt": 134.8,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660212369,
-        "rtt": 0,
+        "rtt": 163.058,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660212386,
-        "rtt": 0,
+        "rtt": 103.028,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660212369,
-        "rtt": 0,
+        "rtt": 198.109,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660219251,
-        "rtt": 0,
+        "rtt": 77.22,
         "hops": 24
     },
     {
         "probe": 13378,
         "timestamp": 1660219245,
-        "rtt": 0,
+        "rtt": 131.693,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660219250,
-        "rtt": 0,
+        "rtt": 312.872,
         "hops": 22
     },
     {
         "probe": 1000327,
         "timestamp": 1660219279,
-        "rtt": 0,
+        "rtt": 269.899,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660219280,
-        "rtt": 0,
+        "rtt": 51.338,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660219278,
-        "rtt": 0,
+        "rtt": 165.892,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660219294,
-        "rtt": 0,
+        "rtt": 111.505,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660219301,
-        "rtt": 0,
+        "rtt": 177.704,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660219322,
-        "rtt": 0,
+        "rtt": 112.836,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660219352,
-        "rtt": 0,
+        "rtt": 217.809,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660219426,
-        "rtt": 0,
+        "rtt": 213.83,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660219459,
-        "rtt": 0,
+        "rtt": 78.185,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660219552,
-        "rtt": 0,
+        "rtt": 162.274,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660219551,
-        "rtt": 0,
+        "rtt": 14.864,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660219547,
-        "rtt": 0,
+        "rtt": 89.388,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660219555,
-        "rtt": 0,
+        "rtt": 134.822,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660219568,
-        "rtt": 0,
+        "rtt": 163.358,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660219596,
-        "rtt": 0,
+        "rtt": 102.572,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660219577,
-        "rtt": 0,
+        "rtt": 198.013,
         "hops": 20
     },
     {
         "probe": 13378,
         "timestamp": 1660226435,
-        "rtt": 0,
+        "rtt": 133.541,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660226444,
-        "rtt": 0,
+        "rtt": 312.89,
         "hops": 22
     },
     {
         "probe": 1000327,
         "timestamp": 1660226492,
-        "rtt": 0,
+        "rtt": 278.998,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660226490,
-        "rtt": 0,
+        "rtt": 51.265,
         "hops": 19
     },
     {
         "probe": 1000819,
         "timestamp": 1660226460,
-        "rtt": 0,
+        "rtt": 78.501,
         "hops": 25
     },
     {
         "probe": 1002177,
         "timestamp": 1660226478,
-        "rtt": 0,
+        "rtt": 166.087,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660226506,
-        "rtt": 0,
+        "rtt": 111.34,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660226512,
-        "rtt": 0,
+        "rtt": 174.781,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660226524,
-        "rtt": 0,
+        "rtt": 109.118,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660226551,
-        "rtt": 0,
+        "rtt": 217.824,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660226633,
-        "rtt": 0,
+        "rtt": 217.64,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660226658,
-        "rtt": 0,
+        "rtt": 77.115,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660226741,
-        "rtt": 0,
+        "rtt": 161.0,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660226741,
-        "rtt": 0,
+        "rtt": 14.972,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660226749,
-        "rtt": 0,
+        "rtt": 89.598,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660226742,
-        "rtt": 0,
+        "rtt": 134.604,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660226765,
-        "rtt": 0,
+        "rtt": 167.685,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660226798,
-        "rtt": 0,
+        "rtt": 100.829,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660226776,
-        "rtt": 0,
+        "rtt": 198.498,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660233653,
-        "rtt": 0,
+        "rtt": 82.885,
         "hops": 22
     },
     {
         "probe": 13378,
         "timestamp": 1660233648,
-        "rtt": 0,
+        "rtt": 134.316,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660233646,
-        "rtt": 0,
+        "rtt": 279.588,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660233681,
-        "rtt": 0,
+        "rtt": 278.875,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660233691,
-        "rtt": 0,
+        "rtt": 51.387,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660233680,
-        "rtt": 0,
+        "rtt": 165.811,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660233696,
-        "rtt": 0,
+        "rtt": 111.329,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660233704,
-        "rtt": 0,
+        "rtt": 175.397,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660233728,
-        "rtt": 0,
+        "rtt": 111.342,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660233739,
-        "rtt": 0,
+        "rtt": 217.887,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660233833,
-        "rtt": 0,
+        "rtt": 213.841,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660233848,
-        "rtt": 0,
+        "rtt": 77.104,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660233948,
-        "rtt": 0,
+        "rtt": 161.088,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660233939,
-        "rtt": 0,
+        "rtt": 14.955,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660233955,
-        "rtt": 0,
+        "rtt": 89.147,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660233948,
-        "rtt": 0,
+        "rtt": 133.348,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660233970,
-        "rtt": 0,
+        "rtt": 163.01,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660233997,
-        "rtt": 0,
+        "rtt": 100.869,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660233968,
-        "rtt": 0,
+        "rtt": 203.166,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660240850,
-        "rtt": 0,
+        "rtt": 77.895,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660240843,
-        "rtt": 0,
+        "rtt": 134.361,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660240836,
-        "rtt": 0,
+        "rtt": 279.708,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660240886,
-        "rtt": 0,
+        "rtt": 279.955,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660240892,
-        "rtt": 0,
+        "rtt": 51.226,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660240882,
-        "rtt": 0,
+        "rtt": 165.92,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660240907,
-        "rtt": 0,
+        "rtt": 111.627,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660240900,
-        "rtt": 0,
+        "rtt": 174.53,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660240924,
-        "rtt": 0,
+        "rtt": 106.271,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660240945,
-        "rtt": 0,
+        "rtt": 217.878,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660241026,
-        "rtt": 0,
+        "rtt": 217.55,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660241053,
-        "rtt": 0,
+        "rtt": 76.97,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660241141,
-        "rtt": 0,
+        "rtt": 162.272,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660241143,
-        "rtt": 0,
+        "rtt": 14.929,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660241154,
-        "rtt": 0,
+        "rtt": 89.332,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660241144,
-        "rtt": 0,
+        "rtt": 133.332,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660241162,
-        "rtt": 0,
+        "rtt": 163.205,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660241191,
-        "rtt": 0,
+        "rtt": 97.374,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660241180,
-        "rtt": 0,
+        "rtt": 203.189,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660248048,
-        "rtt": 0,
+        "rtt": 84.261,
         "hops": 24
     },
     {
         "probe": 13378,
         "timestamp": 1660248038,
-        "rtt": 0,
+        "rtt": 133.559,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660248048,
-        "rtt": 0,
+        "rtt": 279.712,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660248082,
-        "rtt": 0,
+        "rtt": 275.848,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660248079,
-        "rtt": 0,
+        "rtt": 51.3,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660248083,
-        "rtt": 0,
+        "rtt": 165.961,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660248094,
-        "rtt": 0,
+        "rtt": 111.417,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660248113,
-        "rtt": 0,
+        "rtt": 174.796,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660248121,
-        "rtt": 0,
+        "rtt": 109.331,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660248149,
-        "rtt": 0,
+        "rtt": 217.837,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660248224,
-        "rtt": 0,
+        "rtt": 214.036,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660248250,
-        "rtt": 0,
+        "rtt": 76.97,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660248345,
-        "rtt": 0,
+        "rtt": 162.351,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660248338,
-        "rtt": 0,
+        "rtt": 15.055,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660248352,
-        "rtt": 0,
+        "rtt": 89.367,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660248355,
-        "rtt": 0,
+        "rtt": 128.372,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660248360,
-        "rtt": 0,
+        "rtt": 163.384,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660248391,
-        "rtt": 0,
+        "rtt": 97.307,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660248380,
-        "rtt": 0,
+        "rtt": 203.211,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660255246,
-        "rtt": 0,
+        "rtt": 78.42,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660255236,
-        "rtt": 0,
+        "rtt": 134.26,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660255246,
-        "rtt": 0,
+        "rtt": 279.46,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660255281,
-        "rtt": 0,
+        "rtt": 269.933,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660255287,
-        "rtt": 0,
+        "rtt": 51.317,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660255289,
-        "rtt": 0,
+        "rtt": 165.975,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660255303,
-        "rtt": 0,
+        "rtt": 111.491,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660255301,
-        "rtt": 0,
+        "rtt": 176.557,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660255322,
-        "rtt": 0,
+        "rtt": 110.721,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660255349,
-        "rtt": 0,
+        "rtt": 217.813,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660255420,
-        "rtt": 0,
+        "rtt": 217.29,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660255455,
-        "rtt": 0,
+        "rtt": 76.972,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660255544,
-        "rtt": 0,
+        "rtt": 162.238,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660255539,
-        "rtt": 0,
+        "rtt": 14.918,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660255546,
-        "rtt": 0,
+        "rtt": 89.318,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660255548,
-        "rtt": 0,
+        "rtt": 112.839,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660255572,
-        "rtt": 0,
+        "rtt": 163.073,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660255586,
-        "rtt": 0,
+        "rtt": 98.744,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660255578,
-        "rtt": 0,
+        "rtt": 203.158,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660262449,
-        "rtt": 0,
+        "rtt": 77.628,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660262449,
-        "rtt": 0,
+        "rtt": 132.578,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660262448,
-        "rtt": 0,
+        "rtt": 279.53,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660262479,
-        "rtt": 0,
+        "rtt": 275.831,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660262484,
-        "rtt": 0,
+        "rtt": 51.315,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660262482,
-        "rtt": 0,
+        "rtt": 165.6,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660262495,
-        "rtt": 0,
+        "rtt": 112.189,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660262509,
-        "rtt": 0,
+        "rtt": 175.499,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660262530,
-        "rtt": 0,
+        "rtt": 110.19,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660262550,
-        "rtt": 0,
+        "rtt": 217.772,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660262620,
-        "rtt": 0,
+        "rtt": 217.664,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660262658,
-        "rtt": 0,
+        "rtt": 77.023,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660262748,
-        "rtt": 0,
+        "rtt": 161.01,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660262742,
-        "rtt": 0,
+        "rtt": 14.882,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660262751,
-        "rtt": 0,
+        "rtt": 89.233,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660262745,
-        "rtt": 0,
+        "rtt": 112.394,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660262762,
-        "rtt": 0,
+        "rtt": 163.369,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660262797,
-        "rtt": 0,
+        "rtt": 98.86,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660262781,
-        "rtt": 0,
+        "rtt": 203.163,
         "hops": 20
     },
     {
         "probe": 13378,
         "timestamp": 1660269642,
-        "rtt": 0,
+        "rtt": 131.636,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660269644,
-        "rtt": 0,
+        "rtt": 279.611,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660269681,
-        "rtt": 0,
+        "rtt": 269.84,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660269692,
-        "rtt": 0,
+        "rtt": 51.289,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660269691,
-        "rtt": 0,
+        "rtt": 165.816,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660269700,
-        "rtt": 0,
+        "rtt": 111.575,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660269705,
-        "rtt": 0,
+        "rtt": 174.418,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660269721,
-        "rtt": 0,
+        "rtt": 110.923,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660269738,
-        "rtt": 0,
+        "rtt": 217.873,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660269827,
-        "rtt": 0,
+        "rtt": 213.763,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660269857,
-        "rtt": 0,
+        "rtt": 76.971,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660269941,
-        "rtt": 0,
+        "rtt": 161.051,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660269938,
-        "rtt": 0,
+        "rtt": 14.944,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660269959,
-        "rtt": 0,
+        "rtt": 163.236,
         "hops": 14
     },
     {
         "probe": 33661,
         "timestamp": 1660269954,
-        "rtt": 0,
+        "rtt": 89.356,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660269949,
-        "rtt": 0,
+        "rtt": 114.002,
         "hops": 16
     },
     {
         "probe": 52770,
         "timestamp": 1660269996,
-        "rtt": 0,
+        "rtt": 98.86,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660269978,
-        "rtt": 0,
+        "rtt": 203.114,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660276858,
-        "rtt": 0,
+        "rtt": 82.881,
         "hops": 21
     },
     {
         "probe": 13378,
         "timestamp": 1660276837,
-        "rtt": 0,
+        "rtt": 132.542,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660276836,
-        "rtt": 0,
+        "rtt": 279.561,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660276892,
-        "rtt": 0,
+        "rtt": 269.677,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660276880,
-        "rtt": 0,
+        "rtt": 51.427,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660276883,
-        "rtt": 0,
+        "rtt": 165.874,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660276905,
-        "rtt": 0,
+        "rtt": 111.537,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660276912,
-        "rtt": 0,
+        "rtt": 174.793,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660276927,
-        "rtt": 0,
+        "rtt": 112.352,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660276938,
-        "rtt": 0,
+        "rtt": 217.919,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660277029,
-        "rtt": 0,
+        "rtt": 217.314,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660277054,
-        "rtt": 0,
+        "rtt": 76.999,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660277142,
-        "rtt": 0,
+        "rtt": 162.289,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660277138,
-        "rtt": 0,
+        "rtt": 15.07,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660277147,
-        "rtt": 0,
+        "rtt": 89.327,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660277150,
-        "rtt": 0,
+        "rtt": 112.618,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660277160,
-        "rtt": 0,
+        "rtt": 163.262,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660277189,
-        "rtt": 0,
+        "rtt": 100.089,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660277170,
-        "rtt": 0,
+        "rtt": 203.2,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660284054,
-        "rtt": 0,
+        "rtt": 79.396,
         "hops": 22
     },
     {
         "probe": 13378,
         "timestamp": 1660284049,
-        "rtt": 0,
+        "rtt": 132.293,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660284043,
-        "rtt": 0,
+        "rtt": 279.877,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660284084,
-        "rtt": 0,
+        "rtt": 277.726,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660284086,
-        "rtt": 0,
+        "rtt": 51.312,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660284078,
-        "rtt": 0,
+        "rtt": 166.023,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660284100,
-        "rtt": 0,
+        "rtt": 111.438,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660284108,
-        "rtt": 0,
+        "rtt": 174.47,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660284127,
-        "rtt": 0,
+        "rtt": 110.683,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660284152,
-        "rtt": 0,
+        "rtt": 217.772,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660284222,
-        "rtt": 0,
+        "rtt": 217.522,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660284249,
-        "rtt": 0,
+        "rtt": 76.982,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660284342,
-        "rtt": 0,
+        "rtt": 162.22,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660284346,
-        "rtt": 0,
+        "rtt": 14.937,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660284351,
-        "rtt": 0,
+        "rtt": 98.555,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660284352,
-        "rtt": 0,
+        "rtt": 112.674,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660284361,
-        "rtt": 0,
+        "rtt": 163.23,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660284390,
-        "rtt": 0,
+        "rtt": 101.85,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660284376,
-        "rtt": 0,
+        "rtt": 203.109,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660291255,
-        "rtt": 0,
+        "rtt": 81.874,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660291246,
-        "rtt": 0,
+        "rtt": 143.382,
         "hops": 22
     },
     {
         "probe": 19592,
         "timestamp": 1660291238,
-        "rtt": 0,
+        "rtt": 291.836,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660291285,
-        "rtt": 0,
+        "rtt": 291.818,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660291287,
-        "rtt": 0,
+        "rtt": 51.641,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660291282,
-        "rtt": 0,
+        "rtt": 165.908,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660291296,
-        "rtt": 0,
+        "rtt": 111.361,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660291310,
-        "rtt": 0,
+        "rtt": 175.59,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660291322,
-        "rtt": 0,
+        "rtt": 110.646,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660291346,
-        "rtt": 0,
+        "rtt": 217.731,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660291428,
-        "rtt": 0,
+        "rtt": 218.19,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660291452,
-        "rtt": 0,
+        "rtt": 77.016,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660291542,
-        "rtt": 0,
+        "rtt": 162.284,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660291545,
-        "rtt": 0,
+        "rtt": 14.94,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660291548,
-        "rtt": 0,
+        "rtt": 89.568,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660291544,
-        "rtt": 0,
+        "rtt": 114.247,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660291570,
-        "rtt": 0,
+        "rtt": 163.081,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660291592,
-        "rtt": 0,
+        "rtt": 102.045,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660291568,
-        "rtt": 0,
+        "rtt": 203.198,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660298448,
-        "rtt": 0,
+        "rtt": 88.954,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660298436,
-        "rtt": 0,
+        "rtt": 143.451,
         "hops": 22
     },
     {
         "probe": 19592,
         "timestamp": 1660298441,
-        "rtt": 0,
+        "rtt": 280.338,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660298492,
-        "rtt": 0,
+        "rtt": 287.886,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660298482,
-        "rtt": 0,
+        "rtt": 51.681,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660298481,
-        "rtt": 0,
+        "rtt": 165.708,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660298502,
-        "rtt": 0,
+        "rtt": 111.672,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660298505,
-        "rtt": 0,
+        "rtt": 173.621,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660298533,
-        "rtt": 0,
+        "rtt": 112.667,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660298541,
-        "rtt": 0,
+        "rtt": 217.741,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660298633,
-        "rtt": 0,
+        "rtt": 217.731,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660298654,
-        "rtt": 0,
+        "rtt": 76.965,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660298752,
-        "rtt": 0,
+        "rtt": 162.175,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660298746,
-        "rtt": 0,
+        "rtt": 14.965,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660298755,
-        "rtt": 0,
+        "rtt": 91.779,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660298749,
-        "rtt": 0,
+        "rtt": 112.731,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660298768,
-        "rtt": 0,
+        "rtt": 163.098,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660298786,
-        "rtt": 0,
+        "rtt": 102.499,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660298773,
-        "rtt": 0,
+        "rtt": 203.232,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660305647,
-        "rtt": 0,
+        "rtt": 78.278,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660305644,
-        "rtt": 0,
+        "rtt": 143.483,
         "hops": 22
     },
     {
         "probe": 19592,
         "timestamp": 1660305643,
-        "rtt": 0,
+        "rtt": 279.9,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660305692,
-        "rtt": 0,
+        "rtt": 281.792,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660305678,
-        "rtt": 0,
+        "rtt": 51.605,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660305678,
-        "rtt": 0,
+        "rtt": 165.932,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660305705,
-        "rtt": 0,
+        "rtt": 111.625,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660305711,
-        "rtt": 0,
+        "rtt": 174.341,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660305734,
-        "rtt": 0,
+        "rtt": 110.881,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660305742,
-        "rtt": 0,
+        "rtt": 217.819,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660305833,
-        "rtt": 0,
+        "rtt": 217.41,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660305849,
-        "rtt": 0,
+        "rtt": 77.085,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660305946,
-        "rtt": 0,
+        "rtt": 162.603,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660305941,
-        "rtt": 0,
+        "rtt": 14.969,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660305959,
-        "rtt": 0,
+        "rtt": 163.704,
         "hops": 14
     },
     {
         "probe": 33661,
         "timestamp": 1660305951,
-        "rtt": 0,
+        "rtt": 89.358,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660305951,
-        "rtt": 0,
+        "rtt": 114.219,
         "hops": 16
     },
     {
         "probe": 52770,
         "timestamp": 1660305985,
-        "rtt": 0,
+        "rtt": 103.928,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660305977,
-        "rtt": 0,
+        "rtt": 203.204,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660312850,
-        "rtt": 0,
+        "rtt": 78.678,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660312836,
-        "rtt": 0,
+        "rtt": 143.421,
         "hops": 22
     },
     {
         "probe": 19592,
         "timestamp": 1660312842,
-        "rtt": 0,
+        "rtt": 279.709,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660312885,
-        "rtt": 0,
+        "rtt": 297.649,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660312879,
-        "rtt": 0,
+        "rtt": 51.613,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660312892,
-        "rtt": 0,
+        "rtt": 165.901,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660312900,
-        "rtt": 0,
+        "rtt": 111.653,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660312912,
-        "rtt": 0,
+        "rtt": 175.319,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660312929,
-        "rtt": 0,
+        "rtt": 106.434,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660312941,
-        "rtt": 0,
+        "rtt": 217.887,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660313025,
-        "rtt": 0,
+        "rtt": 213.679,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660313059,
-        "rtt": 0,
+        "rtt": 77.036,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660313139,
-        "rtt": 0,
+        "rtt": 159.701,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660313147,
-        "rtt": 0,
+        "rtt": 14.917,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660313159,
-        "rtt": 0,
+        "rtt": 163.096,
         "hops": 14
     },
     {
         "probe": 33661,
         "timestamp": 1660313148,
-        "rtt": 0,
+        "rtt": 89.279,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660313155,
-        "rtt": 0,
+        "rtt": 111.865,
         "hops": 16
     },
     {
         "probe": 52770,
         "timestamp": 1660313192,
-        "rtt": 0,
+        "rtt": 103.736,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660313169,
-        "rtt": 0,
+        "rtt": 224.859,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660320047,
-        "rtt": 0,
+        "rtt": 78.955,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660320039,
-        "rtt": 0,
+        "rtt": 139.232,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660320047,
-        "rtt": 0,
+        "rtt": 279.705,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660320087,
-        "rtt": 0,
+        "rtt": 277.731,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660320078,
-        "rtt": 0,
+        "rtt": 51.598,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660320092,
-        "rtt": 0,
+        "rtt": 166.623,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660320103,
-        "rtt": 0,
+        "rtt": 112.0,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660320104,
-        "rtt": 0,
+        "rtt": 175.254,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660320133,
-        "rtt": 0,
+        "rtt": 107.385,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660320144,
-        "rtt": 0,
+        "rtt": 217.899,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660320220,
-        "rtt": 0,
+        "rtt": 211.568,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660320255,
-        "rtt": 0,
+        "rtt": 77.021,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660320346,
-        "rtt": 0,
+        "rtt": 159.701,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660320346,
-        "rtt": 0,
+        "rtt": 15.077,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660320358,
-        "rtt": 0,
+        "rtt": 89.227,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660320346,
-        "rtt": 0,
+        "rtt": 110.999,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660320367,
-        "rtt": 0,
+        "rtt": 163.108,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660320398,
-        "rtt": 0,
+        "rtt": 101.675,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660320374,
-        "rtt": 0,
+        "rtt": 203.2,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660327256,
-        "rtt": 0,
+        "rtt": 77.795,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660327236,
-        "rtt": 0,
+        "rtt": 138.017,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660327244,
-        "rtt": 0,
+        "rtt": 279.612,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660327285,
-        "rtt": 0,
+        "rtt": 469.24,
         "hops": 23
     },
     {
         "probe": 1000473,
         "timestamp": 1660327286,
-        "rtt": 0,
+        "rtt": 51.662,
         "hops": 19
-    },
-    {
-        "probe": 1002177,
-        "timestamp": 1660327285,
-        "rtt": 0.27,
-        "hops": 3
     },
     {
         "probe": 24523,
         "timestamp": 1660327297,
-        "rtt": 0,
+        "rtt": 111.547,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660327313,
-        "rtt": 0,
+        "rtt": 173.343,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660327331,
-        "rtt": 0,
+        "rtt": 107.174,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660327348,
-        "rtt": 0,
+        "rtt": 217.951,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660327432,
-        "rtt": 0,
+        "rtt": 213.662,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660327454,
-        "rtt": 0,
+        "rtt": 77.031,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660327551,
-        "rtt": 0,
+        "rtt": 159.418,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660327542,
-        "rtt": 0,
+        "rtt": 15.038,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660327551,
-        "rtt": 0,
+        "rtt": 89.372,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660327544,
-        "rtt": 0,
+        "rtt": 111.053,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660327561,
-        "rtt": 0,
+        "rtt": 163.325,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660327584,
-        "rtt": 0,
+        "rtt": 101.408,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660327580,
-        "rtt": 0,
+        "rtt": 203.096,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660334453,
-        "rtt": 0,
+        "rtt": 84.727,
         "hops": 22
     },
     {
         "probe": 13378,
         "timestamp": 1660334441,
-        "rtt": 0,
+        "rtt": 138.047,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660334442,
-        "rtt": 0,
+        "rtt": 279.58,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660334482,
-        "rtt": 0,
+        "rtt": 283.489,
         "hops": 17
     },
     {
         "probe": 1000473,
         "timestamp": 1660334487,
-        "rtt": 0,
+        "rtt": 51.554,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660334489,
-        "rtt": 0,
+        "rtt": 165.741,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660334504,
-        "rtt": 0,
+        "rtt": 111.499,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660334501,
-        "rtt": 0,
+        "rtt": 182.768,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660334521,
-        "rtt": 0,
+        "rtt": 111.269,
         "hops": 19
     },
     {
         "probe": 1002772,
         "timestamp": 1660334550,
-        "rtt": 0,
+        "rtt": 217.941,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660334633,
-        "rtt": 0,
+        "rtt": 213.576,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660334656,
-        "rtt": 0,
+        "rtt": 76.975,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660334746,
-        "rtt": 0,
+        "rtt": 159.799,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660334744,
-        "rtt": 0,
+        "rtt": 14.945,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660334755,
-        "rtt": 0,
+        "rtt": 89.191,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660334750,
-        "rtt": 0,
+        "rtt": 111.693,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660334761,
-        "rtt": 0,
+        "rtt": 163.141,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660334789,
-        "rtt": 0,
+        "rtt": 101.228,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660334777,
-        "rtt": 0,
+        "rtt": 203.158,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660341651,
-        "rtt": 0,
+        "rtt": 78.983,
         "hops": 22
     },
     {
         "probe": 13378,
         "timestamp": 1660341647,
-        "rtt": 0,
+        "rtt": 138.335,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660341646,
-        "rtt": 0,
+        "rtt": 279.638,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660341678,
-        "rtt": 0,
+        "rtt": 277.797,
         "hops": 17
     },
     {
         "probe": 1000473,
         "timestamp": 1660341691,
-        "rtt": 0,
+        "rtt": 52.576,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660341678,
-        "rtt": 0,
+        "rtt": 166.05,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660341695,
-        "rtt": 0,
+        "rtt": 111.446,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660341700,
-        "rtt": 0,
+        "rtt": 183.707,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660341731,
-        "rtt": 0,
+        "rtt": 107.349,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660341750,
-        "rtt": 0,
+        "rtt": 217.946,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660341822,
-        "rtt": 0,
+        "rtt": 213.049,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660341848,
-        "rtt": 0,
+        "rtt": 77.031,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660341949,
-        "rtt": 0,
+        "rtt": 159.689,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660341945,
-        "rtt": 0,
+        "rtt": 15.01,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660341946,
-        "rtt": 0,
+        "rtt": 89.628,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660341946,
-        "rtt": 0,
+        "rtt": 111.21,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660341961,
-        "rtt": 0,
+        "rtt": 163.217,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660341992,
-        "rtt": 0,
+        "rtt": 102.383,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660341982,
-        "rtt": 0,
+        "rtt": 203.156,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660348847,
-        "rtt": 0,
+        "rtt": 78.963,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660348837,
-        "rtt": 0,
+        "rtt": 137.994,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660348845,
-        "rtt": 0,
+        "rtt": 279.546,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660348888,
-        "rtt": 0,
+        "rtt": 277.826,
         "hops": 17
     },
     {
         "probe": 1000473,
         "timestamp": 1660348878,
-        "rtt": 0,
+        "rtt": 52.446,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660348887,
-        "rtt": 0,
+        "rtt": 166.157,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660348900,
-        "rtt": 0,
+        "rtt": 112.303,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660348906,
-        "rtt": 0,
+        "rtt": 183.492,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660348924,
-        "rtt": 0,
+        "rtt": 106.432,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660348950,
-        "rtt": 0,
+        "rtt": 217.853,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660349033,
-        "rtt": 0,
+        "rtt": 217.669,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660349049,
-        "rtt": 0,
+        "rtt": 76.938,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660349150,
-        "rtt": 0,
+        "rtt": 159.47,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660349149,
-        "rtt": 0,
+        "rtt": 15.068,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660349159,
-        "rtt": 0,
+        "rtt": 163.148,
         "hops": 14
     },
     {
         "probe": 33661,
         "timestamp": 1660349151,
-        "rtt": 0,
+        "rtt": 89.332,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660349156,
-        "rtt": 0,
+        "rtt": 111.3,
         "hops": 16
     },
     {
         "probe": 52770,
         "timestamp": 1660349188,
-        "rtt": 0,
+        "rtt": 102.419,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660349169,
-        "rtt": 0,
+        "rtt": 203.177,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660356052,
-        "rtt": 0,
+        "rtt": 77.949,
         "hops": 25
     },
     {
         "probe": 13378,
         "timestamp": 1660356046,
-        "rtt": 0,
+        "rtt": 138.231,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660356049,
-        "rtt": 0,
+        "rtt": 279.632,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660356079,
-        "rtt": 0,
+        "rtt": 269.826,
         "hops": 17
     },
     {
         "probe": 1000473,
         "timestamp": 1660356080,
-        "rtt": 0,
+        "rtt": 52.424,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660356080,
-        "rtt": 0,
+        "rtt": 166.522,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660356104,
-        "rtt": 0,
+        "rtt": 111.423,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660356113,
-        "rtt": 0,
+        "rtt": 189.663,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660356122,
-        "rtt": 0,
+        "rtt": 106.427,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660356139,
-        "rtt": 0,
+        "rtt": 217.907,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660356221,
-        "rtt": 0,
+        "rtt": 217.983,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660356254,
-        "rtt": 0,
+        "rtt": 76.984,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660356342,
-        "rtt": 0,
+        "rtt": 159.41,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660356342,
-        "rtt": 0,
+        "rtt": 15.127,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660356347,
-        "rtt": 0,
+        "rtt": 89.202,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660356344,
-        "rtt": 0,
+        "rtt": 111.21,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660356370,
-        "rtt": 0,
+        "rtt": 164.771,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660356385,
-        "rtt": 0,
+        "rtt": 102.26,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660356369,
-        "rtt": 0,
+        "rtt": 203.201,
         "hops": 20
     },
     {
         "probe": 1000819,
         "timestamp": 1660363248,
-        "rtt": 0,
+        "rtt": 79.378,
         "hops": 22
     },
     {
         "probe": 13378,
         "timestamp": 1660363236,
-        "rtt": 0,
+        "rtt": 138.03,
         "hops": 21
     },
     {
         "probe": 19592,
         "timestamp": 1660363248,
-        "rtt": 0,
+        "rtt": 278.391,
         "hops": 19
     },
     {
         "probe": 1000327,
         "timestamp": 1660363286,
-        "rtt": 0,
+        "rtt": 269.795,
         "hops": 17
     },
     {
         "probe": 1000473,
         "timestamp": 1660363290,
-        "rtt": 0,
+        "rtt": 51.595,
         "hops": 19
     },
     {
         "probe": 1002177,
         "timestamp": 1660363284,
-        "rtt": 0,
+        "rtt": 165.949,
         "hops": 17
     },
     {
         "probe": 24523,
         "timestamp": 1660363297,
-        "rtt": 0,
+        "rtt": 111.944,
         "hops": 23
     },
     {
         "probe": 32670,
         "timestamp": 1660363305,
-        "rtt": 0,
+        "rtt": 183.747,
         "hops": 15
     },
     {
         "probe": 1002506,
         "timestamp": 1660363324,
-        "rtt": 0,
+        "rtt": 101.625,
         "hops": 20
     },
     {
         "probe": 1002772,
         "timestamp": 1660363349,
-        "rtt": 0,
+        "rtt": 217.855,
         "hops": 22
     },
     {
         "probe": 22671,
         "timestamp": 1660363430,
-        "rtt": 0,
+        "rtt": 217.645,
         "hops": 13
     },
     {
         "probe": 52049,
         "timestamp": 1660363444,
-        "rtt": 0,
+        "rtt": 76.955,
         "hops": 18
     },
     {
         "probe": 21614,
         "timestamp": 1660363544,
-        "rtt": 0,
+        "rtt": 159.45,
         "hops": 16
     },
     {
         "probe": 32976,
         "timestamp": 1660363550,
-        "rtt": 0,
+        "rtt": 15.079,
         "hops": 16
     },
     {
         "probe": 33661,
         "timestamp": 1660363545,
-        "rtt": 0,
+        "rtt": 89.386,
         "hops": 14
     },
     {
         "probe": 6931,
         "timestamp": 1660363554,
-        "rtt": 0,
+        "rtt": 111.402,
         "hops": 16
     },
     {
         "probe": 33022,
         "timestamp": 1660363563,
-        "rtt": 0,
+        "rtt": 163.224,
         "hops": 14
     },
     {
         "probe": 52770,
         "timestamp": 1660363595,
-        "rtt": 0,
+        "rtt": 102.149,
         "hops": 15
     },
     {
         "probe": 6792,
         "timestamp": 1660363571,
-        "rtt": 0,
+        "rtt": 202.213,
         "hops": 20
     }
 ]

@@ -1,18 +1,19 @@
 import json
 
 obj = []
-arquivo = '.\jsons\teste.json'
+arquivo = '.\jsons\mamazon2.json'
 with open(arquivo, "r") as file:
     data = json.load(file)
-    f = open(arquivo, "w")
+    f = open('teste.json', "w")
     rtt = 0
     for dados in data:
         totalHops = len(dados['result'])
         aux = int(totalHops) - 1
         ultimoHop = dados['result'][aux]
+        print(aux)
 
         for hop in dados['result']:
-            if hop['hop'] == aux:
+            if hop['hop'] == 255:
                 if not('rtt' in hop['result'][1]):
                     if 'rtt' in hop['result'][2]:
                         rtt = hop['result'][2]['rtt']
